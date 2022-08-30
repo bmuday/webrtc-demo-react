@@ -8,13 +8,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBkCK9HmjaiIcnOa9PbvMs3Yy6gWSmFFCs",
-  authDomain: "webrtc-intro-7dcdd.firebaseapp.com",
-  // databaseURL: "https://webrtc-intro-7dcdd.firebaseio.com",
-  projectId: "webrtc-intro-7dcdd",
-  storageBucket: "webrtc-intro-7dcdd.appspot.com",
-  messagingSenderId: "1089774248533",
-  appId: "1:1089774248533:web:651560db0a2af426382adc",
+  apiKey: "AIzaSyABMHUnxfagb3GTgIevqT3AME8BX2Aejko",
+  authDomain: "webrtc-30cd1.firebaseapp.com",
+  projectId: "webrtc-30cd1",
+  storageBucket: "webrtc-30cd1.appspot.com",
+  messagingSenderId: "235612974216",
+  appId: "1:235612974216:web:c04ab992b8a0f33182433d",
 };
 
 // Initialize Firebase
